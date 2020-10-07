@@ -1,5 +1,4 @@
 # Covid-19-PowerBI
-Repositório para armazenamento de arquivos sobre Covid-19 no  Brasil com o auxílio da ferramenta  Microsoft Power BI.
 
 Os dados  utilizados neste projeto foram retirados do  seguinte endereço: https://www.kaggle.com/unanimad/corona-virus-brazil
 

@@ -1,6 +1,6 @@
 # Covid-19-PowerBI
 
-Para acessar aos dashboards, basta clicar no link: https://cutt.ly/3hquwMu, ou copiá-lo e colá-lo no espaço adequado no seu navegador. 
+Para acessar aos dashboards, basta clicar no link: https://cutt.ly/yjRoMK0, ou copiá-lo e colá-lo no espaço adequado no seu navegador. 
 
 Os dados  utilizados neste projeto foram retirados do  seguinte endereço: https://www.kaggle.com/unanimad/corona-virus-brazil
 
